@@ -39,6 +39,9 @@ input{
 
 
 }
+button img{
+    margin: .5rem;
+}
 
 input, button, .button{
     width: 100%;
@@ -53,11 +56,11 @@ input, button, .button{
 
  }
  .separator div:nth-child(2){
-           color: var(--grey-blue);
-           align-items: center;
-           font-family: 'Poppins', sans-serif;
-           padding: 0 1.35rem;
-           line-height: 0;
+        color: var(--grey-blue);
+        align-items: center;
+        font-family: 'Poppins', sans-serif;
+        padding: 0 1.35rem;
+        line-height: 0;
 
  }
  .separator div:nth-child(1),
