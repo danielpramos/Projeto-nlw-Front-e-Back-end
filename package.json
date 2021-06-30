@@ -1,0 +1,20 @@
+{
+  "name": "Projeto_nlw_Front_e_Back_end",
+  "version": "1.0.0",
+  "description": "Projeto de um site com frontend e backend ,  onde coloca  um login e após verificacão vai pra pagina seguinte, e um link pra redirecionar pra outra  pagina para criar uma sala.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielpramos/Projeto-nlw-Front-e-Back-end.git"
+  },
+  "keywords": [],
+  "author": "Daniel Pinheiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielpramos/Projeto-nlw-Front-e-Back-end/issues"
+  },
+  "homepage": "https://github.com/danielpramos/Projeto-nlw-Front-e-Back-end#readme"
+}
