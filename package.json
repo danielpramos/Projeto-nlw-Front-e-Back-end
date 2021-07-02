@@ -1,25 +1,27 @@
 {
   "name": "Projeto-nlw-Front-e-Back-end",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": " Projeto Nlw",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "Daniel Pinheiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielpramos/Projeto-nlw-Front-e-Back-end/issues"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "ejs": "^3.1.6"
   },
-  "devDependencies": {},
-  "scripts": {
-    "start": "node src/server.js"
+  "devDependencies": {
+    "nodemon": "^2.0.9"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danielpramos/Projeto-nlw-Front-e-Back-end.git"
-  },
-  "keywords": [],
-  "author": "Daniel",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/danielpramos/Projeto-nlw-Front-e-Back-end/issues"
   },
   "homepage": "https://github.com/danielpramos/Projeto-nlw-Front-e-Back-end#readme"
 }
