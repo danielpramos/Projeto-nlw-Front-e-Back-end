@@ -6,6 +6,7 @@ const modalTitle = document.querySelector(".modal h2")
 const modalDescription = document.querySelector(".modal p")
 const modalButtton = document.querySelector(".modal div button")
 
+
 //Pegar todos os botões com a classe 'check'
 const checkButtons = document.querySelectorAll(".actions a.check")
     
